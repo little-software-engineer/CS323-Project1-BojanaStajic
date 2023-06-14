@@ -1,0 +1,7 @@
+Film id: 3
+Ime: Bojana
+Prezime: Stajic
+Datum iznajmljivanja: Sat Apr  1 13:55:53 2023
+
+Datum vracanja: 14/7/2023
+Ukupna cena: 434.000000 dinara

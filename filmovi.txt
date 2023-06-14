@@ -1,0 +1,69 @@
+1
+Dirty Dancing
+1987
+Romanticni film sa elementima muzike i plesa
+Patrick Swayze
+
+
+2
+Flashdance
+1983
+Muzicki film koji prati devojku koja zeli da postane plesacica
+Jennifer Beals
+
+
+3
+Die Hard
+1988
+Akcioni film koji prati inspektora u pokusaju da spase svoju zenu
+Bruce Willis
+
+
+4
+Terminator
+1988
+Naucno fantasticni film sa elemntima akcije prati radnju oko junakinje Sare Konor
+Linda Hamilton
+
+
+5
+Back to the Future
+1985
+Naucno fantasticna avantura prati srednjoskolca koji putuje kroz vreme kako bi spasio drage ljude
+Michael J. Fox
+
+
+6
+E.T. The Extra-Terrestrial
+1982
+Epska avantura prati vanzemaljca koji je sleteo na zemlju i postaje gost jednoj porodici
+Drew Barrymore
+
+
+7
+Raiders of the Lost Ark
+1981
+Akciona avantura prati profesora arheologije koji pokusava da otkrije vekovima cuvanu tajnu
+Harrison Ford
+
+
+8
+Top Gun
+1986
+Romanticna prica koja prati kadete u skoli za pilote dok pokusavaju da balansiraju opasni posao i ljubav
+Tom Cruise
+
+
+9
+Beverly Hills Cop
+1984
+Akciona komedija prati smotanog policajca koji pokusava da resi opasan slucaj
+Eddie Murphy
+
+
+10
+Working Girl
+1988
+Komedija sa elementima drama prati zenu koja pokusava da uspe u poslovnom svetu a i u ljubavi
+Sigourney Weaver
+
