@@ -104,7 +104,7 @@ void iznajmiFilm() { //metoda trazi input od korisnika i kreira jedinstveni teks
             return;
         }
       
-        int filmId; //korisnik ovo vidi u ponudi koji je broj u pitanju
+        char nazivFilma[20]; 
         char ime[20];
         char prezime[20];
         char datumVracanja[20] = "14/7/2023";
@@ -113,11 +113,11 @@ void iznajmiFilm() { //metoda trazi input od korisnika i kreira jedinstveni teks
         double  cena = (rand() %
             (900 - 400 + 1)) + 400;
 
+        //proveriti da li naziv postoji u fajlu
 
 
-
-        printf("\n\nUnesite id filma: ");
-        scanf("%d", &filmId);
+        printf("\n\nUnesite naziv filma: ");
+        scanf("%s", &nazivFilma);
         printf("\nUnesite Vase ime: ");
         scanf(" %s", &ime);
         printf("\nUnesite Vase prezime: ");
@@ -129,7 +129,7 @@ void iznajmiFilm() { //metoda trazi input od korisnika i kreira jedinstveni teks
 
 
 
-        fprintf(fp, "Film id: %d\nIme: %s\nPrezime: %s\nDatum iznajmljivanja: %s\nDatum vracanja: %s\nUkupna cena: %f dinara\n", filmId, ime, prezime, ctime(&t), datumVracanja, cena);
+        fprintf(fp, "Film naziv: %s\nIme: %s\nPrezime: %s\nDatum iznajmljivanja: %s\nDatum vracanja: %s\nUkupna cena: %f dinara\n", nazivFilma, ime, prezime, ctime(&t), datumVracanja, cena);
 
         fclose(fp);
         printf("Uneto uspesno!\n");

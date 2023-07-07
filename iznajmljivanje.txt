@@ -1,7 +1,7 @@
-Film id: 3
+Film naziv: Flashdance
 Ime: Bojana
 Prezime: Stajic
-Datum iznajmljivanja: Sat Apr  1 13:55:53 2023
+Datum iznajmljivanja: Fri Jul  7 13:53:19 2023
 
 Datum vracanja: 14/7/2023
-Ukupna cena: 434.000000 dinara
+Ukupna cena: 806.000000 dinara
